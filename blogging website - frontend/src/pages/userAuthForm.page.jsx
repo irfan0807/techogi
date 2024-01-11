@@ -29,7 +29,9 @@ const UserAuthForm = ({type}) => {
                 <hr className="w-1/2 border-black"/>
 
             </div>
-            <button>Continue with google</button>
+            <button className="btn-dark flex items-center justify-center relative w-full ">Continue with google</button>
+         
+
 
 
 
