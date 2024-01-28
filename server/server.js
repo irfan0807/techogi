@@ -8,7 +8,7 @@ const server = express();
 server.use(express.json());
 
 server.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Server is up and running!')
 })
 server.post('/signup', (req, res) => {
 
