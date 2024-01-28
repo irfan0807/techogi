@@ -3,7 +3,14 @@ Content-Type: application/json
 
 {
 
+<<<<<<< HEAD
     "fullname":"ik",
     "email": "irfandbs507@gmail.com",
     "password": "Kunaal"
 }
+=======
+    "fullname":"irfan shaik",
+    "email": "kunaa@gmail.com",
+    "password": "password123456"
+}
+>>>>>>> 3dba292c282065a190a20f11f5745b2cbfaa9f29
